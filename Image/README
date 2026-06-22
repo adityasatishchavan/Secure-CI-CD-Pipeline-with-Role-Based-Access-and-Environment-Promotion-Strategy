@@ -52,7 +52,7 @@ project/
 Jenkins automatically triggers the pipeline via GitHub Webhook.
 The build process verifies the application and dependencies.
 
-![](Image/Output.png) 
+![](Image/build.png)
 
 
 2️⃣ Infrastructure Provisioning
