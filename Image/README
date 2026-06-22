@@ -4,7 +4,7 @@ This project demonstrates a secure CI/CD pipeline implementation using Jenkins, 
 
 The pipeline automates the build, infrastructure provisioning, and deployment process, while maintaining strict access control and environment separation.
 
-📌 Project Overview
+📌 Project Overview 
 Modern DevOps practices require secure and automated pipelines.
 
 This project implements a CI/CD pipeline that includes:
@@ -34,7 +34,7 @@ GitHub Webhooks
 
 Infrastructure as Code (IaC)
 
-CI/CD Pipeline Automation
+CI/CD Pipeline Automation  
 
 📂 Project Structure
 Copy code
@@ -52,7 +52,7 @@ project/
 Jenkins automatically triggers the pipeline via GitHub Webhook.
 The build process verifies the application and dependencies.
 
-![Build Output](images/build-success-op.jpg)
+![](Image/Output.png) 
 
 
 2️⃣ Infrastructure Provisioning
@@ -114,6 +114,6 @@ Cloud deployment on AWS EC2
 
 👨‍💻 Author
 
-Prathmesh Pawar
+Aditya Chavan
 DevOps & Cloud Enthusiast
 Focused on AWS, Terraform, CI/CD, and Cloud Infrastructure Automation 
