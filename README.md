@@ -64,6 +64,8 @@ terraform init
 terraform plan
 terraform apply
 
+![terraform](terraform.png)
+
 3️⃣ Deployment Stage
 Application deployed on AWS EC2 server.
 Jenkins manages deployment securely.
