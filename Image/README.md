@@ -1,4 +1,3 @@
-<<<<<<< HEAD:README.md
 Secure CI/CD Pipeline with Role-Based Access & Environment Promotion Strategy
 
 This project demonstrates a secure CI/CD pipeline implementation using Jenkins, Terraform, and AWS EC2 with Role-Based Access Control (RBAC) and an environment promotion strategy to ensure controlled and secure application deployments.
@@ -121,5 +120,3 @@ Cloud deployment on AWS EC2
 Aditya Chavan
 DevOps & Cloud Enthusiast
 Focused on AWS, Terraform, CI/CD, and Cloud Infrastructure Automation 
-=======
->>>>>>> 8a70867 (Added images and project files):Image/README
